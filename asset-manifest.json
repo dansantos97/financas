@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/financas/static/js/main.e21d096c.js",
+    "main.js": "/financas/static/js/main.c145534f.js",
     "index.html": "/financas/index.html",
-    "main.e21d096c.js.map": "/financas/static/js/main.e21d096c.js.map"
+    "main.c145534f.js.map": "/financas/static/js/main.c145534f.js.map"
   },
   "entrypoints": [
-    "static/js/main.e21d096c.js"
+    "static/js/main.c145534f.js"
   ]
 }
