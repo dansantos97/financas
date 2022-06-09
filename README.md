@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+(Projeto de sistema financeiro feito para praticar o uso do TypeScript)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 <p>Link: https://dansantos97.github.io/financasts/</p>
