@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-<p>Link: https://dansantos97.github.io/financas/</p>
+<p>Link: https://dansantos97.github.io/financasts/</p>
 
 ## Available Scripts
 
